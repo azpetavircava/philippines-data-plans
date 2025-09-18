@@ -70,3 +70,10 @@ layout: default
 　　带个回形针！取SIM卡时找不到取卡针的痛，谁经历谁知道。备点小额比索付套餐费，有些小店无法刷卡。海岛信号随天气波动，重要文件提前下载。对了，菲律宾人爱用Facebook Messenger联系，装一个能省不少短信费。
 
 　　说到底，选卡就像选旅伴，靠谱最重要。Globe和Smart之争？不如花299比索各买一张，哪家信号好用哪家——毕竟，盯着碧海蓝天刷不出地图的焦灼，可比这点钱贵多了。你的行李箱里，会给网络留个位置吗？
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Philippines SIM 卡购买与激活指南](https://faciylike.github.io/philippines-sim-guides)
